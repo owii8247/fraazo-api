@@ -19,7 +19,7 @@
       {
         "id": 2,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/006/624/original/data/tr:w-256,h-256",
-        "name": "Lady's Finger (Bhindi / Okra / Bhendi) / Bhinda,Vendaikk...",
+        "name": "Lady's Finger (Bhindi) ",
         "packSize": "500 g",
         "price": 12,
         "strikePrice": 28,
@@ -51,7 +51,7 @@
       {
         "id": 4,
         "imgUrl": "https://images.fraazo.com/fraazo-master/VSUR12.png/tr:w-256,h-256",
-        "name": "Yam (Suran / Elephant Foot)",
+        "name": "Yam (Suran)",
         "packSize": "500 g",
         "price": 43,
         "strikePrice": "",
@@ -179,7 +179,7 @@
       {
         "id": 12,
         "imgUrl": "https://images.fraazo.com/fraazo-master/VCAP12.png/tr:w-256,h-256",
-        "name": "Capsicum (Shimla), Green Shimla Mirchi",
+        "name": "Capsicum (Shimla)",
         "packSize": "250 g",
         "price": 26,
         "strikePrice": "",
@@ -195,7 +195,7 @@
       {
         "id": 13,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/315/original/data/tr:w-256,h-256",
-        "name": "Cucumber Green Indian / Kheera / Kakdi",
+        "name": "Cucumber / Kheera / Kakdi",
         "packSize": "500 g",
         "price": 31,
         "strikePrice": "",
@@ -483,7 +483,7 @@
       {
         "id": 31,
         "imgUrl": "https://images.fraazo.com/fraazo-master/ESWE13.png/tr:w-256,h-256",
-        "name": "Sweet Corn Bunch (Bhutta)",
+        "name": "Sweet Corn (Bhutta)",
         "packSize": "1 pc",
         "price": 16,
         "strikePrice": "",
@@ -563,7 +563,7 @@
       {
         "id": 36,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/006/625/original/data/tr:w-256,h-256",
-        "name": "Ridge Gourd (Turai) 500 g",
+        "name": "Ridge Gourd (Turai)",
         "packSize": "500 g",
         "price": 50,
         "strikePrice": "",
@@ -691,7 +691,7 @@
       {
         "id": 44,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/387/original/data/tr:w-256,h-256",
-        "name": "Capsicum Yellow / Bell Pepper",
+        "name": "Capsicum Yellow",
         "packSize": "2pcs(250-350g)",
         "price": 130,
         "strikePrice": "",
@@ -803,7 +803,7 @@
       {
         "id": 51,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/602/original/data/tr:w-256,h-256",
-        "name": "Betel Leaf - 12 Pcs",
+        "name": "Betel Leaf ",
         "packSize": "12 Pcs",
         "price": 39,
         "strikePrice": "",
@@ -835,7 +835,7 @@
       {
         "id": 53,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/250/original/data/tr:w-256,h-256",
-        "name": "Lemon(100g) / Nimboo / Nibu",
+        "name": "Lemon(100g) / Nibu",
         "packSize": "100g",
         "price": 17,
         "strikePrice": "",
@@ -883,7 +883,7 @@
       {
         "id": 56,
         "imgUrl": "https://images.fraazo.com/fraazo-master/VGAR12.png/tr:w-256,h-256",
-        "name": "Garlic Bunch / Lahsun / Vellulipaya",
+        "name": "Garlic Bunch / Lahsun ",
         "packSize": "100 g",
         "price": 13,
         "strikePrice": "",
@@ -899,7 +899,7 @@
       {
         "id": 57,
         "imgUrl": "https://images.fraazo.com/fraazo-master/LCOR21.png/tr:w-256,h-256",
-        "name": "Coriander Leaves / Dhania / Kothimbir",
+        "name": "Coriander Leaves / Dhania",
         "packSize": "100 g",
         "price": 17,
         "strikePrice": "",
@@ -1155,7 +1155,7 @@
       {
         "id": 73,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/390/original/data/tr:w-256,h-256",
-        "name": "Mixed Capsicum Combo (1 Pc Capsicum Red + 1 Pc Capsicum Yellow)",
+        "name": "Mixed Capsicum Combo",
         "packSize": "1 unit",
         "price": 103,
         "strikePrice": "",
@@ -1171,7 +1171,7 @@
       {
         "id": 74,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/202/original/data/tr:w-256,h-256",
-        "name": "UPVAS Combo (500 gm Sweet Potato + 500 gm Arbi + 1 Kg Potato)",
+        "name": "UPVAS Combo",
         "packSize": "1 unit",
         "price": 112,
         "strikePrice": "",
@@ -1187,7 +1187,7 @@
       {
         "id": 75,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/389/original/data/tr:w-256,h-256",
-        "name": "Fresh Salad Combo (250G Carrot + 500 G Cucumber)",
+        "name": "Fresh Salad Combo",
         "packSize": "1 unit",
         "price": 44,
         "strikePrice": "",
@@ -1203,7 +1203,7 @@
       {
         "id": 76,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/598/original/data/tr:w-256,h-256",
-        "name": "Dry Dates - 1 Kg (Pack of 5*200 gms)",
+        "name": "Dry Dates",
         "packSize": "1 kg",
         "price": 330,
         "strikePrice": 460,
@@ -1219,7 +1219,7 @@
       {
         "id": 77,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/581/original/data/tr:w-256,h-256",
-        "name": "Cashew Tukda 200gms (Pack of 2*100gms)",
+        "name": "Cashew Tukda 200gms",
         "packSize": "200 g",
         "price": 167,
         "strikePrice": 236,
@@ -1235,7 +1235,7 @@
       {
         "id": 78,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/597/original/data/tr:w-256,h-256",
-        "name": "Dry Dates - 400gms (Pack of 2*200gms)",
+        "name": "Dry Dates - 400gms",
         "packSize": "400 g",
         "price": 135,
         "strikePrice": 184,
@@ -1251,7 +1251,7 @@
       {
         "id": 79,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/584/original/data/tr:w-256,h-256",
-        "name": "Walnut 200gms (Pack of 2*100gms)",
+        "name": "Walnut 200gms",
         "packSize": "200 g",
         "price": 335,
         "strikePrice": 478,
@@ -1267,7 +1267,7 @@
       {
         "id": 80,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/585/original/data/tr:w-256,h-256",
-        "name": "Walnut 500gms (Pack of 5*100gms)",
+        "name": "Walnut 500gms",
         "packSize": "500 g",
         "price": 825,
         "strikePrice": 1195,
@@ -1283,7 +1283,7 @@
       {
         "id": 81,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/263/original/data/tr:w-256,h-256",
-        "name": "Cashew & Kismis Combo Pack (Cashew 100gm + Kismis 200gm)",
+        "name": "Cashew & Kismis Combo Pack",
         "packSize": "1 unit-300 g",
         "price": 149,
         "strikePrice": 246,
@@ -1299,7 +1299,7 @@
       {
         "id": 82,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/587/original/data/tr:w-256,h-256",
-        "name": "Pista Salted 200gms (Pack of 2*100gms)",
+        "name": "Pista Salted 200gms",
         "packSize": "200 g",
         "price": 229,
         "strikePrice": 334,
@@ -1699,7 +1699,7 @@
       {
         "id": 107,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/257/original/data/tr:w-256,h-256",
-        "name": "Coconut Tender / Nariyal Pani",
+        "name": "Coconut / Nariyal Pani",
         "packSize": "1 Pc",
         "price": 71,
         "strikePrice": "",
@@ -1971,7 +1971,7 @@
       {
         "id": 124,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/442/original/data/tr:w-256,h-256",
-        "name": "Smoothie Combo (Banana Robusta - 1Kg + Blueberry - 1 Pun...",
+        "name": "Smoothie Combo",
         "packSize": "1 unit",
         "price": 418,
         "strikePrice": "",
@@ -2147,7 +2147,7 @@
       {
         "id": 135,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/006/624/original/data/tr:w-256,h-256,f-webp",
-        "name": "Lady's Finger (Bhindi / Okra / Bhendi) / Bhinda,Vendaikk...",
+        "name": "Lady's Finger (Bhindi)",
         "packSize": "500 g",
         "price": 12,
         "strikePrice": 28,
@@ -2163,7 +2163,7 @@
       {
         "id": 136,
         "imgUrl": "https://images.fraazo.com/fraazo-master/VBOT12.png/tr:w-256,h-256,f-webp",
-        "name": "Bottle Gourd (Dudhi / Lauki)",
+        "name": "Bottle Gourd (Lauki)",
         "packSize": "1 pc",
         "price": 22,
         "strikePrice": 27,
@@ -2307,7 +2307,7 @@
       {
         "id": 145,
         "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/240/original/data/tr:w-256,h-256,f-webp",
-        "name": "Tasty Combo (2 Pcs Apple Royal Gala + 1 Kg Banana Robust...",
+        "name": "Tasty Combo",
         "packSize": "1 unit",
         "price": 133,
         "strikePrice": "",
