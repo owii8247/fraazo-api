@@ -2,7 +2,7 @@
     "products": [
       {
         "id": 1,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/599/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/IF/WT/MY-43969551/disco-pumpkin-500x500.png",
         "name": "Pumpkin Disco",
         "packSize": "250 g",
         "price": 20,
@@ -18,7 +18,7 @@
       },
       {
         "id": 2,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/006/624/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/EP/YS/MY-3966004/lady-fingers-500x500.jpg",
         "name": "Lady's Finger (Bhindi) ",
         "packSize": "500 g",
         "price": 12,
@@ -34,7 +34,7 @@
       },
       {
         "id": 3,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VBEE12.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/616PXhYj8iL._SX679_.jpg",
         "name": "Beetroot",
         "packSize": "500 g",
         "price": 30,
@@ -50,7 +50,7 @@
       },
       {
         "id": 4,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VSUR12.png/tr:w-256,h-256",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0104/1059/0266/products/suran.jpg?v=1580818619",
         "name": "Yam (Suran)",
         "packSize": "500 g",
         "price": 43,
@@ -66,7 +66,7 @@
       },
       {
         "id": 5,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/BONI11.png/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
         "name": "Onion",
         "packSize": "1 kg",
         "price": 11,
@@ -82,7 +82,7 @@
       },
       {
         "id": 6,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/BPOT11.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/CW/GK/KD/ANDROID-83645407/product-jpeg-500x500.jpg",
         "name": "Potato / Batata",
         "packSize": "1 kg",
         "price": 29,
@@ -98,7 +98,7 @@
       },
       {
         "id": 7,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/246/original/data/tr:w-256,h-256",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0088/9896/9685/products/WhatsAppImage2021-11-24at11.37.14AM.jpg?v=1637735121",
         "name": "Yam Purple (Kandh)",
         "packSize": "250 g",
         "price": 21,
@@ -114,7 +114,7 @@
       },
       {
         "id": 8,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/012/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/CW/GK/KD/ANDROID-83645407/product-jpeg-500x500.jpg",
         "name": "Baby Potato",
         "packSize": "500 g",
         "price": 25,
@@ -130,7 +130,7 @@
       },
       {
         "id": 9,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/234/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
         "name": "Onion - Sambhar",
         "packSize": "250 g",
         "price": 24,
@@ -146,7 +146,7 @@
       },
       {
         "id": 10,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/381/original/data/tr:w-256,h-256",
+        "imgUrl": "https://images.indianexpress.com/2019/10/Banana-flower_759.jpg",
         "name": "Banana Flower",
         "packSize": "1 Pc",
         "price": 62,
@@ -162,7 +162,7 @@
       },
       {
         "id": 11,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VBRI12.png/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590004102/brinjal-purple-striped-500-g-product-images-o590004102-p590004102-0-202203150748.jpg",
         "name": "Brinjal Bharta",
         "packSize": "500 g",
         "price": 28,
@@ -178,7 +178,7 @@
       },
       {
         "id": 12,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VCAP12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/KE/RC/MY-30125612/green-capcicum-250x250.jpg",
         "name": "Capsicum (Shimla)",
         "packSize": "250 g",
         "price": 26,
@@ -194,7 +194,7 @@
       },
       {
         "id": 13,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/315/original/data/tr:w-256,h-256",
+        "imgUrl": "https://vizaggrocers.com/36-large_default/cucumber-dosakaya-kheera.jpg",
         "name": "Cucumber / Kheera / Kakdi",
         "packSize": "500 g",
         "price": 31,
@@ -210,7 +210,7 @@
       },
       {
         "id": 14,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VCAB12.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/41Te6nyDUPL._AC_SY1000_.jpg",
         "name": "Cabbage",
         "packSize": "1 pc",
         "price": 28,
@@ -226,7 +226,7 @@
       },
       {
         "id": 15,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VBOT12.png/tr:w-256,h-256",
+        "imgUrl": "https://needline.in/wp-content/uploads/2020/09/lau-min-1.jpg",
         "name": "Bottle Gourd (Dudhi / Lauki)",
         "packSize": "1 pc",
         "price": 22,
@@ -242,7 +242,7 @@
       },
       {
         "id": 16,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/028/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590004102/brinjal-purple-striped-500-g-product-images-o590004102-p590004102-0-202203150748.jpg",
         "name": "Brinjal Kateri, Baingan",
         "packSize": "250 g",
         "price": 9,
@@ -258,7 +258,7 @@
       },
       {
         "id": 17,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VDRU12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/ANDROID/Default/2021/6/CN/DE/LM/65132747/product-jpeg-500x500.jpg",
         "name": "Drumstick",
         "packSize": "100 g",
         "price": 13,
@@ -274,7 +274,7 @@
       },
       {
         "id": 18,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/316/original/data/tr:w-256,h-256",
+        "imgUrl": "https://vizaggrocers.com/36-large_default/cucumber-dosakaya-kheera.jpg",
         "name": "Cucumber White",
         "packSize": "500 g",
         "price": 25,
@@ -290,7 +290,7 @@
       },
       {
         "id": 19,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VBRI22.png/tr:w-256,h-256",
+        "imgUrl": "https://www.farmersfamily.in/wp-content/uploads/2020/09/Small-round-brinjal.jpg",
         "name": "Brinjal Black / Nagpur",
         "packSize": "500 g",
         "price": 22,
@@ -306,7 +306,7 @@
       },
       {
         "id": 20,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/164/original/data/tr:w-256,h-256",
+        "imgUrl": "https://naturessoulshop.com/wp-content/uploads/2020/08/pumkin-white.png",
         "name": "Ash Gourd (White Pumpkin)",
         "packSize": "500 g",
         "price": 31,
@@ -322,7 +322,7 @@
       },
       {
         "id": 21,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VGAV12.png/tr:w-256,h-256",
+        "imgUrl": "https://merafarmer.com/110-large_default/cluster-beans-gavar.jpg",
         "name": "Beans Cluster (Gavar)",
         "packSize": "250 g",
         "price": 26,
@@ -338,7 +338,7 @@
       },
       {
         "id": 22,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VFRE12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/FN/GP/AX/SELLER-78828265/french-beans-1000x1000.jpg",
         "name": "Beans French",
         "packSize": "500 g",
         "price": 98,
@@ -354,7 +354,7 @@
       },
       {
         "id": 23,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/008/120/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
         "name": "Bumper Offer Onion",
         "packSize": "1 kg",
         "price": 24,
@@ -370,7 +370,7 @@
       },
       {
         "id": 24,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VSWE12.png/tr:w-256,h-256",
+        "imgUrl": "https://static.toiimg.com/thumb/51327325.cms?width=1200&height=900",
         "name": "Sweet Potato",
         "packSize": "500 g",
         "price": 45,
@@ -386,7 +386,7 @@
       },
       {
         "id": 25,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/006/605/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.collinsdictionary.com/images/full/tomato_281240360.jpg",
         "name": "Tomato (1 Kg)",
         "packSize": "1 kg",
         "price": 91,
@@ -402,7 +402,7 @@
       },
       {
         "id": 26,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VARB12.png/tr:w-256,h-256",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0104/1059/0266/products/Arvi-Dnew.jpg?v=1604058752",
         "name": "Arbi (Colocasia)",
         "packSize": "500 g",
         "price": 35,
@@ -418,7 +418,7 @@
       },
       {
         "id": 27,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FCAR1.png/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590003546/carrot-orange-500-g-product-images-o590003546-p590003546-0-202203151011.jpg",
         "name": "Carrot Orange (Local)",
         "packSize": "500 g",
         "price": 26,
@@ -434,7 +434,7 @@
       },
       {
         "id": 28,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VMUL12.png/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/600x600/590001892/radish-white-1-pc-approx-80-g-150-g-product-images-o590001892-p590001892-0-202203171016.jpg",
         "name": "Radish",
         "packSize": "500 g",
         "price": 41,
@@ -450,7 +450,7 @@
       },
       {
         "id": 29,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/236/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.collinsdictionary.com/images/full/tomato_281240360.jpg",
         "name": "Tomato - Cherry",
         "packSize": "200 g",
         "price": 97,
@@ -466,7 +466,7 @@
       },
       {
         "id": 30,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/101/original/data/tr:w-256,h-256",
+        "imgUrl": "data:image/jpeg;base64,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",
         "name": "Pumpkin Green",
         "packSize": "500 g",
         "price": 11,
@@ -482,7 +482,7 @@
       },
       {
         "id": 31,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/ESWE13.png/tr:w-256,h-256",
+        "imgUrl": "http://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seeds-sweet-corn-f1-hybrid-vegetable-seeds-16969123987596.jpg?v=1634205018",
         "name": "Sweet Corn (Bhutta)",
         "packSize": "1 pc",
         "price": 16,
@@ -498,7 +498,7 @@
       },
       {
         "id": 32,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VCAU12.png/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/600x600/590003537/cauliflower-1-pc-approx-600-g-1000-g-product-images-o590003537-p590003537-0-202203170515.jpg",
         "name": "Cauliflower",
         "packSize": "1 pc",
         "price": 37,
@@ -514,7 +514,7 @@
       },
       {
         "id": 33,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VBIT12.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/51OVG3g79KL.jpg",
         "name": "Bitter Gourd (Karela)",
         "packSize": "500 g",
         "price": 33,
@@ -530,7 +530,7 @@
       },
       {
         "id": 34,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VPUM12.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/41vLyzo442L.jpg",
         "name": "Pumpkin Red",
         "packSize": "500 g",
         "price": 18,
@@ -546,7 +546,7 @@
       },
       {
         "id": 35,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/106/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590000179/snake-gourd-country-long-500-g-product-images-o590000179-p590000179-0-202203171030.jpg",
         "name": "Snake Gourd (Bada Parwal)",
         "packSize": "250 g",
         "price": 19,
@@ -562,7 +562,7 @@
       },
       {
         "id": 36,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/006/625/original/data/tr:w-256,h-256",
+        "imgUrl": "https://4.imimg.com/data4/VY/DB/MY-2176398/ridge-gourd-500x500.jpg",
         "name": "Ridge Gourd (Turai)",
         "packSize": "500 g",
         "price": 50,
@@ -578,7 +578,7 @@
       },
       {
         "id": 37,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VTON12.png/tr:w-256,h-256",
+        "imgUrl": "https://i0.wp.com/tendergreens.store/wp-content/uploads/2020/07/pngguru.com-1.png?fit=600%2C600&ssl=1",
         "name": "Tondli",
         "packSize": "500 g",
         "price": 21,
@@ -594,7 +594,7 @@
       },
       {
         "id": 38,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VCHA12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2021/12/GV/QB/DC/13856106/chawli-dollar-500x500.jpg",
         "name": "Beans Chawli",
         "packSize": "250 g",
         "price": 16,
@@ -610,7 +610,7 @@
       },
       {
         "id": 39,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VSPO12.png/tr:w-256,h-256",
+        "imgUrl": "https://seedsnpots.com/wp-content/uploads/2018/11/sponge-gourd-500x500-1.jpg",
         "name": "Sponge Gourd (Galka)",
         "packSize": "500 g",
         "price": 41,
@@ -626,7 +626,7 @@
       },
       {
         "id": 40,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VTIN12.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61cAbW6lakL._SX522_.jpg",
         "name": "Tinda",
         "packSize": "250 g",
         "price": 22,
@@ -642,7 +642,7 @@
       },
       {
         "id": 41,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/443/original/data/tr:w-256,h-256",
+        "imgUrl": "https://cdn3.mydukaan.io/app/image/700x700/?url=https://mydukaan-prod-new.s3.amazonaws.com/556250/f2ce1ede-a6e6-4097-b9b7-d83f3842805f.png",
         "name": "Maya Maida 500G",
         "packSize": "500 g",
         "price": 27,
@@ -658,7 +658,7 @@
       },
       {
         "id": 42,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/EMUS2.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/VD/LT/HJ/ANDROID-84086190/product-jpeg-500x500.jpg",
         "name": "Mushroom Button",
         "packSize": "1 unit",
         "price": 46,
@@ -674,7 +674,7 @@
       },
       {
         "id": 43,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/EBAS11.png/tr:w-256,h-256",
+        "imgUrl": "https://froots.co/wp-content/uploads/2021/06/italian-basil-froots-min.png",
         "name": "Basil Italian",
         "packSize": "50 g",
         "price": 9,
@@ -690,7 +690,7 @@
       },
       {
         "id": 44,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/387/original/data/tr:w-256,h-256",
+        "imgUrl": "https://seedsnpots.com/wp-content/uploads/2017/09/capsicum-yellow-1.jpg",
         "name": "Capsicum Yellow",
         "packSize": "2pcs(250-350g)",
         "price": 130,
@@ -706,7 +706,7 @@
       },
       {
         "id": 45,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/386/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/WK/YY/MY-27363995/red-capsicum-500x500.jpg",
         "name": "Capsicum Red",
         "packSize": "2 Pcs",
         "price": 75,
@@ -722,7 +722,7 @@
       },
       {
         "id": 46,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/EZUC12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/SE/OL/OS/SELLER-50084470/green-zucchini-500x500.jpg",
         "name": "Zucchini Green",
         "packSize": "200-300gm/pc",
         "price": 85,
@@ -738,7 +738,7 @@
       },
       {
         "id": 47,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/EZUC32.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2020/8/JD/BO/ZA/107172905/yellow-zucchini-500x500.jpg",
         "name": "Zucchini Yellow",
         "packSize": "200-300gm/pc",
         "price": 82,
@@ -754,7 +754,7 @@
       },
       {
         "id": 48,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/ELET22.png/tr:w-256,h-256",
+        "imgUrl": "https://4.imimg.com/data4/MH/IN/MY-2574561/iceberg-lettuce-500x500.jpg",
         "name": "Lettuce Iceberg",
         "packSize": "300-550gm",
         "price": 108,
@@ -770,7 +770,7 @@
       },
       {
         "id": 49,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VCAB22.png/tr:w-256,h-256",
+        "imgUrl": "data:image/jpeg;base64,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",
         "name": "Cabbage Red",
         "packSize": "1 pc",
         "price": 44,
@@ -786,7 +786,7 @@
       },
       {
         "id": 50,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/EBRO12.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/81dOnK2fB+L._SX466_.jpg",
         "name": "Broccoli",
         "packSize": "(450g-550g)",
         "price": 203,
@@ -802,7 +802,7 @@
       },
       {
         "id": 51,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/602/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/20001347_9-fresho-betel-leaf.jpg",
         "name": "Betel Leaf ",
         "packSize": "12 Pcs",
         "price": 39,
@@ -818,7 +818,7 @@
       },
       {
         "id": 52,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/003/639/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/ZE/ZO/HH/SELLER-81389294/green-amaranthus-500x500.jpg",
         "name": "Amaranthus Green",
         "packSize": "250 g",
         "price": 38,
@@ -834,7 +834,7 @@
       },
       {
         "id": 53,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/250/original/data/tr:w-256,h-256",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0555/0037/4215/products/fres131_800x.png?v=1622992896",
         "name": "Lemon(100g) / Nibu",
         "packSize": "100g",
         "price": 17,
@@ -850,7 +850,7 @@
       },
       {
         "id": 54,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VGIN12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2021/9/ZB/EZ/CD/22640664/ginger-adrak-500x500.jpg",
         "name": "Ginger / Adrak",
         "packSize": "100 g",
         "price": 12,
@@ -866,7 +866,7 @@
       },
       {
         "id": 55,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/LCUR11.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/YN/UR/MY-5553683/curry-leaf-500x500.jpg",
         "name": "Curry Leaves",
         "packSize": "50 g",
         "price": 12,
@@ -882,7 +882,7 @@
       },
       {
         "id": 56,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VGAR12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/SU/AH/JE/SELLER-63940691/fresh-garlic-bulb-1000x1000.jpg",
         "name": "Garlic Bunch / Lahsun ",
         "packSize": "100 g",
         "price": 13,
@@ -898,7 +898,7 @@
       },
       {
         "id": 57,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/LCOR21.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61PAOV28DeL._SL1000_.jpg",
         "name": "Coriander Leaves / Dhania",
         "packSize": "100 g",
         "price": 17,
@@ -914,7 +914,7 @@
       },
       {
         "id": 58,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/LMET1.png/tr:w-256,h-256",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0017/9234/4153/products/methi_d450fc8b-5fec-4fe0-b2de-3bd7f9dd5c25_540x.jpg?v=1602575318",
         "name": "Methi (Fenugreek Leaves)",
         "packSize": "100 g",
         "price": 27,
@@ -930,7 +930,7 @@
       },
       {
         "id": 59,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/LSPI11.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/PI/KX/MY-46595757/fresh-spinach-28palak-29-281kg-29-500x500.png",
         "name": "Palak Spinach",
         "packSize": "250 g",
         "price": 24,
@@ -946,7 +946,7 @@
       },
       {
         "id": 60,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/375/original/data/tr:w-256,h-256",
+        "imgUrl": "https://static.toiimg.com/photo/msid-85427212/85427212.jpg",
         "name": "Turmeric",
         "packSize": "250g",
         "price": 15,
@@ -962,7 +962,7 @@
       },
       {
         "id": 61,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VAWL11.png/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/10000293_14-fresho-amla.jpg",
         "name": "Amla",
         "packSize": "250 g",
         "price": 29,
@@ -978,7 +978,7 @@
       },
       {
         "id": 62,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/162/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/41NeBtJof0L.jpg",
         "name": "Amaranthus Red",
         "packSize": "250 g",
         "price": 33,
@@ -994,7 +994,7 @@
       },
       {
         "id": 63,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/LMIN11.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/EV/KP/MY-53986132/mint-leaves-500x500.jpg",
         "name": "Mint Leaves / Pudina",
         "packSize": "100 g",
         "price": 11,
@@ -1010,7 +1010,7 @@
       },
       {
         "id": 64,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/LSPR11.png/tr:w-256,h-256",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
         "name": "Spring Onion",
         "packSize": "250 g",
         "price": 23,
@@ -1026,7 +1026,7 @@
       },
       {
         "id": 65,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/419/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/31jxsMpCAkS.jpg",
         "name": "Colocasia Leaves",
         "packSize": "1 Pc",
         "price": 7,
@@ -1042,7 +1042,7 @@
       },
       {
         "id": 66,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/156/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/GH/PS/MY-27346073/lemon-grass-500x500.jpg",
         "name": "Lemon Grass",
         "packSize": "100 g",
         "price": 12,
@@ -1058,7 +1058,7 @@
       },
       {
         "id": 67,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VCHI22.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/DG/LE/MY-38213580/green-chilli-500x500-500x500.jpg",
         "name": "Chillies Green",
         "packSize": "100 g",
         "price": 9,
@@ -1074,7 +1074,7 @@
       },
       {
         "id": 68,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/417/original/data/tr:w-256,h-256",
+        "imgUrl": "https://img.staticmb.com/mbcontent//images/uploads/2022/5/aloe-vera-plants.jpg",
         "name": "Aloevera",
         "packSize": "1 Pc",
         "price": 10,
@@ -1090,7 +1090,7 @@
       },
       {
         "id": 69,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/380/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/IN/HJ/MY-3177291/banana-stem-500x500.jpg",
         "name": "Banana Stem",
         "packSize": "1 Pc",
         "price": 58,
@@ -1106,7 +1106,7 @@
       },
       {
         "id": 70,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/320/original/data/tr:w-256,h-256",
+        "imgUrl": "https://rukminim1.flixcart.com/image/416/416/k8q8nm80/fmcg-combo/h/7/e/veg-pulao-combo-of-3-packs-just-2-eat-original-imafqntbdza59eff.jpeg?q=70",
         "name": "Pulao Combo",
         "packSize": "200 g",
         "price": 49,
@@ -1122,7 +1122,7 @@
       },
       {
         "id": 71,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VGAR32.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/QE/KJ/MY-27127505/peeled-garlic-500x500.jpg",
         "name": "Garlic Peeled",
         "packSize": "100 g",
         "price": 34,
@@ -1138,7 +1138,7 @@
       },
       {
         "id": 72,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/276/original/data/tr:w-256,h-256",
+        "imgUrl": "https://rukminim1.flixcart.com/image/416/416/kpedle80/spice-masala/p/m/9/etsibitsi-premium-whole-gram-masala-combo-pack-mix-of-13-spices-original-imag3n8un8f26t8u.jpeg?q=70",
         "name": "Masala Combo",
         "packSize": "1 unit",
         "price": 42,
@@ -1154,7 +1154,7 @@
       },
       {
         "id": 73,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/390/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/51d50yg870L._SX522_.jpg",
         "name": "Mixed Capsicum Combo",
         "packSize": "1 unit",
         "price": 103,
@@ -1170,7 +1170,7 @@
       },
       {
         "id": 74,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/202/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/81vT2QSnX-L._SL1500_.jpg",
         "name": "UPVAS Combo",
         "packSize": "1 unit",
         "price": 112,
@@ -1186,7 +1186,7 @@
       },
       {
         "id": 75,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/389/original/data/tr:w-256,h-256",
+        "imgUrl": "https://bookmysabzi.com/image/cache/catalog/product/cut/green-salad-cut-combo-800x800.jpeg",
         "name": "Fresh Salad Combo",
         "packSize": "1 unit",
         "price": 44,
@@ -1202,7 +1202,7 @@
       },
       {
         "id": 76,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/598/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61RJzg6XK3L._SL1000_.jpg",
         "name": "Dry Dates",
         "packSize": "1 kg",
         "price": 330,
@@ -1218,7 +1218,7 @@
       },
       {
         "id": 77,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/581/original/data/tr:w-256,h-256",
+        "imgUrl": "https://4.imimg.com/data4/TJ/RK/MY-5713098/cashew-tukda-500x500.jpg",
         "name": "Cashew Tukda 200gms",
         "packSize": "200 g",
         "price": 167,
@@ -1234,7 +1234,7 @@
       },
       {
         "id": 78,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/597/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61RJzg6XK3L._SL1000_.jpg",
         "name": "Dry Dates - 400gms",
         "packSize": "400 g",
         "price": 135,
@@ -1250,7 +1250,7 @@
       },
       {
         "id": 79,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/584/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61IFoc+u9UL._SX522_.jpg",
         "name": "Walnut 200gms",
         "packSize": "200 g",
         "price": 335,
@@ -1266,7 +1266,7 @@
       },
       {
         "id": 80,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/585/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61IFoc+u9UL._SX522_.jpg",
         "name": "Walnut 500gms",
         "packSize": "500 g",
         "price": 825,
@@ -1282,7 +1282,7 @@
       },
       {
         "id": 81,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/003/263/original/data/tr:w-256,h-256",
+        "imgUrl": "https://static.wixstatic.com/media/47c3e1_cd33be7f658745ecbf73ebef3415a872~mv2.png/v1/fill/w_800,h_800,al_c/47c3e1_cd33be7f658745ecbf73ebef3415a872~mv2.png",
         "name": "Cashew & Kismis Combo Pack",
         "packSize": "1 unit-300 g",
         "price": 149,
@@ -1298,7 +1298,7 @@
       },
       {
         "id": 82,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/587/original/data/tr:w-256,h-256",
+        "imgUrl": "https://4.imimg.com/data4/HF/VJ/MY-10037513/pista-chios-500x500.jpg",
         "name": "Pista Salted 200gms",
         "packSize": "200 g",
         "price": 229,
@@ -1314,7 +1314,7 @@
       },
       {
         "id": 83,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/586/original/data/tr:w-256,h-256",
+        "imgUrl": "https://4.imimg.com/data4/HF/VJ/MY-10037513/pista-chios-500x500.jpg",
         "name": "Pista Salted - 100gms",
         "packSize": "100 g",
         "price": 115,
@@ -1330,7 +1330,7 @@
       },
       {
         "id": 84,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/593/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/ANDROID/Default/2020/11/TT/BI/BE/105194480/product-jpeg-500x500.jpg",
         "name": "Kismis - 200 gms",
         "packSize": "200 g",
         "price": 59,
@@ -1346,7 +1346,7 @@
       },
       {
         "id": 85,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/577/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61YkQ4UgmjL._SL1000_.jpg",
         "name": "Cashew - 100gm",
         "packSize": "100 g",
         "price": 104,
@@ -1362,7 +1362,7 @@
       },
       {
         "id": 86,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/583/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/41oU5QWl7fL.jpg",
         "name": "Walnut - 100gms",
         "packSize": "100 g",
         "price": 175,
@@ -1378,7 +1378,7 @@
       },
       {
         "id": 87,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/596/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61MzZcVlBvL._SX522_.jpg",
         "name": "Dry Dates - 200gms",
         "packSize": "200 g",
         "price": 70,
@@ -1394,7 +1394,7 @@
       },
       {
         "id": 88,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/580/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2022/4/FI/FE/MW/31068689/ne2-kaju-tukda-100gm-500x500.jpg",
         "name": "Cashew Tukda - 100gm",
         "packSize": "100 g",
         "price": 84,
@@ -1410,7 +1410,7 @@
       },
       {
         "id": 89,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/157/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/71bNsWlkyeL._SL1500_.jpg",
         "name": "Pineapple",
         "packSize": "800g -1 Kg",
         "price": 107,
@@ -1426,7 +1426,7 @@
       },
       {
         "id": 90,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VPAP12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2022/1/DG/WC/KO/144194230/raw-green-papaya-500x500.jpg",
         "name": "Papaya Raw",
         "packSize": "1 pc",
         "price": 33,
@@ -1442,7 +1442,7 @@
       },
       {
         "id": 91,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/261/original/data/tr:w-256,h-256",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0432/2849/6022/products/Pomegranate_750x810.jpg?v=1603246120",
         "name": "Pomegranate (Anar)",
         "packSize": "3 Pcs",
         "price": 145,
@@ -1458,7 +1458,7 @@
       },
       {
         "id": 92,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/006/original/data/tr:w-256,h-256",
+        "imgUrl": "https://images.pexels.com/photos/2487443/pexels-photo-2487443.jpeg?cs=srgb&dl=pexels-matheus-cenali-2487443.jpg&fm=jpg",
         "name": "Apple Royal Gala",
         "packSize": "4 pcs",
         "price": 154,
@@ -1474,7 +1474,7 @@
       },
       {
         "id": 93,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FBAN14.png/tr:w-256,h-256",
+        "imgUrl": "https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?s=612x612&w=0&k=20&c=MAc8AXVz5KxwWeEmh75WwH6j_HouRczBFAhulLAtRUU=",
         "name": "Banana Robusta",
         "packSize": "1 kg",
         "price": 52,
@@ -1490,7 +1490,7 @@
       },
       {
         "id": 94,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FMOS13.png/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/10000191-4_2-fresho-mosambi.jpg",
         "name": "Mosambi (Sweet Lime)",
         "packSize": "1 kg",
         "price": 89,
@@ -1506,7 +1506,7 @@
       },
       {
         "id": 95,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FBAN24.png/tr:w-256,h-256",
+        "imgUrl": "https://d1z88p83zuviay.cloudfront.net/ProductVariantImages/54d367b3-614b-4208-bfdb-b9a4e52cdeb9.JPG",
         "name": "Banana Elaichi / Yellaki",
         "packSize": "500 g",
         "price": 75,
@@ -1522,7 +1522,7 @@
       },
       {
         "id": 96,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FCHI13.png/tr:w-256,h-256",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/0581/2151/9284/products/5_1024x1024.jpg?v=1627403106",
         "name": "Chikoo",
         "packSize": "500 g",
         "price": 41,
@@ -1538,7 +1538,7 @@
       },
       {
         "id": 97,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FCOC1.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/61THuQWrAZL._SL1200_.jpg",
         "name": "Coconut",
         "packSize": "1 pc",
         "price": 22,
@@ -1554,7 +1554,7 @@
       },
       {
         "id": 98,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FMUS1.png/tr:w-256,h-256",
+        "imgUrl": "https://badikheti-production.s3.ap-south-1.amazonaws.com/products/202207291058442111760591.jpg",
         "name": "Musk Melon/ Kharabooja",
         "packSize": "1 pc",
         "price": 83,
@@ -1570,7 +1570,7 @@
       },
       {
         "id": 99,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/117/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/10000207_24-fresho-watermelon-small.jpg",
         "name": "Watermelon",
         "packSize": "1 pc",
         "price": 44,
@@ -1579,14 +1579,14 @@
         "notifyme": "",
         "category": "fruits",
         "subCatagory": "freshFruits",
-        "tooltipText": "(Approx 1.5 to 2.7 kg)",
+        "tooltipText": "(Approx 1.7 to 2.5 kg)",
         "benefits": "",
         "description": "",
         "info": ""
       },
       {
         "id": 100,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/096/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/SELLER/Default/2021/5/BJ/YR/KJ/121098303/pear-fruit-plant-500x500.jpg",
         "name": "Pear Green / Packham",
         "packSize": "500 g",
         "price": 93,
@@ -1602,7 +1602,7 @@
       },
       {
         "id": 101,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/247/original/data/tr:w-256,h-256",
+        "imgUrl": "https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?s=612x612&w=0&k=20&c=MAc8AXVz5KxwWeEmh75WwH6j_HouRczBFAhulLAtRUU=",
         "name": "Banana Nendran",
         "packSize": "500 g",
         "price": 68,
@@ -1618,7 +1618,7 @@
       },
       {
         "id": 102,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/338/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/20000909_18-fresho-orange-imported.jpg",
         "name": "Orange Imported",
         "packSize": "2 Pcs",
         "price": 40,
@@ -1634,7 +1634,7 @@
       },
       {
         "id": 103,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/369/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/51+T6QrvHpL._SX679_.jpg",
         "name": "Guava White Indian",
         "packSize": "2 Pcs",
         "price": 70,
@@ -1650,7 +1650,7 @@
       },
       {
         "id": 104,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/260/original/data/tr:w-256,h-256",
+        "imgUrl": "https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?s=612x612&w=0&k=20&c=MAc8AXVz5KxwWeEmh75WwH6j_HouRczBFAhulLAtRUU=",
         "name": "Banana Raw",
         "packSize": "500 g",
         "price": 30,
@@ -1666,7 +1666,7 @@
       },
       {
         "id": 105,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FAPP23.png/tr:w-256,h-256",
+        "imgUrl": "https://images.hindustantimes.com/img/2022/10/06/1600x900/green_apple_thumb_1665034089070_1665034099214_1665034099214.jpg",
         "name": "Apple Green / Granny Smith",
         "packSize": "4 pcs",
         "price": 140,
@@ -1682,7 +1682,7 @@
       },
       {
         "id": 106,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/248/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/10000581_13-fresho-banana-red.jpg",
         "name": "Banana Red",
         "packSize": "500 g",
         "price": 82,
@@ -1698,7 +1698,7 @@
       },
       {
         "id": 107,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/257/original/data/tr:w-256,h-256",
+        "imgUrl": "https://4.imimg.com/data4/QQ/FU/MY-2213434/nariyal-pani-premix-250x250.jpg",
         "name": "Coconut / Nariyal Pani",
         "packSize": "1 Pc",
         "price": 71,
@@ -1714,7 +1714,7 @@
       },
       {
         "id": 108,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/004/598/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/10000207_24-fresho-watermelon-small.jpg",
         "name": "Special Offer Watermelon",
         "packSize": "1 pc",
         "price": 9,
@@ -1730,7 +1730,7 @@
       },
       {
         "id": 109,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/007/361/original/data/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/TA/EV/GLADMIN-70090179/papaya-medium-500x500.jpg",
         "name": "Papaya-Medium",
         "packSize": "900g-1500g",
         "price": 53,
@@ -1746,7 +1746,7 @@
       },
       {
         "id": 110,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/007/921/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/30000991_4-fresho-jamun.jpg",
         "name": "Jamun",
         "packSize": "220-250g",
         "price": 224,
@@ -1762,7 +1762,7 @@
       },
       {
         "id": 111,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/241/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.12taste.com/wp-content/uploads/2021/08/apple-1.jpg",
         "name": "Apple Red Delicious",
         "packSize": "4 Pc",
         "price": 171,
@@ -1778,7 +1778,7 @@
       },
       {
         "id": 112,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/432/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/30005030_9-fresho-grape-fruit-indian.jpg",
         "name": "Grape Fruit",
         "packSize": "1 Pc",
         "price": 67,
@@ -1794,7 +1794,7 @@
       },
       {
         "id": 113,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FBLU1.png/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/30009286_7-fresho-blueberry.jpg",
         "name": "Blueberry",
         "packSize": "1 unit",
         "price": 362,
@@ -1810,7 +1810,7 @@
       },
       {
         "id": 114,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FDRA1.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/ANDROID/Default/2021/4/LG/BJ/HF/13447959/product-jpeg-500x500.jpg",
         "name": "Dragon Fruit",
         "packSize": "1 pc",
         "price": 118,
@@ -1826,7 +1826,7 @@
       },
       {
         "id": 115,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FKIW2.png/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/20000911-2_39-fresho-kiwi-green.jpg",
         "name": "Kiwi Green",
         "packSize": "1 unit",
         "price": 103,
@@ -1842,7 +1842,7 @@
       },
       {
         "id": 116,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/235/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/30009284_8-fresho-avocado-imported-medium.jpg",
         "name": "Avocado Imported",
         "packSize": "1 pc",
         "price": 123,
@@ -1858,9 +1858,9 @@
       },
       {
         "id": 117,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/008/185/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/40218328_1-fresho-cherry-kashmir.jpg",
         "name": "Kashmir Cherry",
-        "packSize": "200g",
+        "packSize": "500g",
         "price": 92,
         "strikePrice": "",
         "soldOut": "",
@@ -1874,7 +1874,7 @@
       },
       {
         "id": 118,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/008/022/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/81KZRGcyDVL._SX425_.jpg",
         "name": "Premium Apricot Shakarpara",
         "packSize": "250g",
         "price": 49,
@@ -1890,7 +1890,7 @@
       },
       {
         "id": 119,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/008/053/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/51uCmJHuEpL._SL1028_.jpg",
         "name": "Plum Indian",
         "packSize": "250g",
         "price": 77,
@@ -1906,7 +1906,7 @@
       },
       {
         "id": 120,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FANJ2.png/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/71BxCi-aEGS._SL1500_.jpg",
         "name": "Anjeer (Figs)",
         "packSize": "1 unit",
         "price": 58,
@@ -1922,7 +1922,7 @@
       },
       {
         "id": 121,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/007/496/original/data/tr:w-256,h-256",
+        "imgUrl": "https://superfruitsonline.ae/wp-content/uploads/2021/12/Screen-Shot-2021-12-18-at-3.29.04-PM.png",
         "name": "Nectarine Indian",
         "packSize": "500g",
         "price": 149,
@@ -1938,7 +1938,7 @@
       },
       {
         "id": 122,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/008/251/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/40218333_1-fresho-fresh-almonds-green.jpg",
         "name": "Fresh green almond",
         "packSize": "250g",
         "price": 80,
@@ -1954,7 +1954,7 @@
       },
       {
         "id": 123,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/007/690/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/71s3OVoKn1L._SX466_.jpg",
         "name": "Litchi / Lychee",
         "packSize": "500g",
         "price": 232,
@@ -1970,10 +1970,10 @@
       },
       {
         "id": 124,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/442/original/data/tr:w-256,h-256",
+        "imgUrl": "https://frugivore-storage.s3.amazonaws.com/media/package/img_one/2020-01-24/Monday.jpg",
         "name": "Smoothie Combo",
         "packSize": "1 unit",
-        "price": 418,
+        "price": 50,
         "strikePrice": "",
         "soldOut": "",
         "notifyme": "",
@@ -1986,10 +1986,10 @@
       },
       {
         "id": 125,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/240/original/data/tr:w-256,h-256",
-        "name": "",
+        "imgUrl": "https://m.media-amazon.com/images/I/91vqN50vrLS._SX522_.jpg",
+        "name": "Dry Fruit Combo",
         "packSize": "1 unit",
-        "price": 133,
+        "price": 533,
         "strikePrice": "",
         "soldOut": "",
         "notifyme": "",
@@ -2002,7 +2002,7 @@
       },
       {
         "id": 126,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/135/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/51FRr8EcA8L._SL1000_.jpg",
         "name": "Mango Badami",
         "packSize": "1 kg",
         "price": 122,
@@ -2018,7 +2018,7 @@
       },
       {
         "id": 127,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/004/597/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/10000589_6-fresho-totapuri-mango.jpg",
         "name": "Mango Totapuri Raw",
         "packSize": "1 Kg",
         "price": 81,
@@ -2034,7 +2034,7 @@
       },
       {
         "id": 128,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/250/original/data/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/l/10000306-3_1-fresho-lalbagh-mango-sindhura.jpg",
         "name": "Mango Lalbhag Sindhura",
         "packSize": "1 Kg",
         "price": 98,
@@ -2050,7 +2050,7 @@
       },
       {
         "id": 129,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VMAN12.png/tr:w-256,h-256",
+        "imgUrl": "https://5.imimg.com/data5/KM/CT/MY-8565619/raw-mango-500x500.jpg",
         "name": "Mango Raw",
         "packSize": "250 g",
         "price": 17,
@@ -2066,7 +2066,7 @@
       },
       {
         "id": 130,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FKES1.png/tr:w-256,h-256",
+        "imgUrl": "https://www.bigbasket.com/media/uploads/p/xxl/30000974_11-fresho-kesar-mango.jpg",
         "name": "Mango Kesar",
         "packSize": "1 kg",
         "price": 135,
@@ -2082,7 +2082,7 @@
       },
       {
         "id": 131,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/007/294/original/data/tr:w-256,h-256",
+        "imgUrl": "https://m.media-amazon.com/images/I/51QMc9ay8pL._SX466_.jpg",
         "name": "Mango Mallika",
         "packSize": "1 kg",
         "price": 161,
@@ -2098,7 +2098,7 @@
       },
       {
         "id": 132,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/004/598/original/data/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590001265/watermelon-kiran-1-pc-approx-2300-g-3000-g-product-images-o590001265-p590041413-0-202203142036.jpg",
         "name": "Special Offer Watermelon",
         "packSize": "1 pc",
         "price": 9,
@@ -2114,7 +2114,7 @@
       },
       {
         "id": 133,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VCHI22.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://5.imimg.com/data5/DG/LE/MY-38213580/green-chilli-500x500-500x500.jpg",
         "name": "Chillies Green",
         "packSize": "100 g",
         "price": 9,
@@ -2130,7 +2130,7 @@
       },
       {
         "id": 134,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/BONI11.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://www.jiomart.com/images/product/original/590003515/onion-1-kg-product-images-o590003515-p590003515-0-202203170724.jpg",
         "name": "Onion",
         "packSize": "1 kg",
         "price": 11,
@@ -2146,7 +2146,7 @@
       },
       {
         "id": 135,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/006/624/original/data/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://5.imimg.com/data5/EP/YS/MY-3966004/lady-fingers-500x500.jpg",
         "name": "Lady's Finger (Bhindi)",
         "packSize": "500 g",
         "price": 12,
@@ -2162,7 +2162,7 @@
       },
       {
         "id": 136,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VBOT12.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://m.media-amazon.com/images/I/51mWb+HBuRL.jpg",
         "name": "Bottle Gourd (Lauki)",
         "packSize": "1 pc",
         "price": 22,
@@ -2178,7 +2178,7 @@
       },
       {
         "id": 137,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VTON12.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://5.imimg.com/data5/ECOM/Default/2022/11/EO/LU/HL/154040248/coccinia-500x500.png",
         "name": "Tondli",
         "packSize": "500 g",
         "price": 21,
@@ -2194,7 +2194,7 @@
       },
       {
         "id": 138,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FCOC1.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://m.media-amazon.com/images/I/61THuQWrAZL._SL1200_.jpg",
         "name": "Coconut",
         "packSize": "1 pc",
         "price": 22,
@@ -2210,7 +2210,7 @@
       },
       {
         "id": 139,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/VCAU12.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://m.media-amazon.com/images/I/81T2i55X4gL._SL1500_.jpg",
         "name": "Cauliflower",
         "packSize": "1 pc",
         "price": 37,
@@ -2226,7 +2226,7 @@
       },
       {
         "id": 140,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FMOS13.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://www.jiomart.com/images/product/600x600/590006806/mosambi-3-kg-pack-product-images-o590006806-p590032918-0-202203150754.jpg",
         "name": "Mosambi (Sweet Lime)",
         "packSize": "1 kg",
         "price": 89,
@@ -2242,7 +2242,7 @@
       },
       {
         "id": 141,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/FBAN14.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?s=612x612&w=0&k=20&c=MAc8AXVz5KxwWeEmh75WwH6j_HouRczBFAhulLAtRUU=",
         "name": "Banana Robusta",
         "packSize": "1 kg",
         "price": 52,
@@ -2258,7 +2258,7 @@
       },
       {
         "id": 142,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/008/022/original/data/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://m.media-amazon.com/images/I/81POfVCFqEL._SY550_.jpg",
         "name": "Premium Apricot Shakarpara",
         "packSize": "250g",
         "price": 49,
@@ -2274,7 +2274,7 @@
       },
       {
         "id": 143,
-        "imgUrl": "https://images.fraazo.com/fraazo-master/BPOT11.png/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://cdn.shopify.com/s/files/1/1022/5071/products/boniato-1-955043_7e9842c5-d88f-4e55-804c-70c2cebaf608.jpg?v=1637185980",
         "name": "Potato / Batata",
         "packSize": "1 kg",
         "price": 29,
@@ -2290,7 +2290,7 @@
       },
       {
         "id": 144,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/images/images/000/006/605/original/data/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://www.collinsdictionary.com/images/full/tomato_281240360.jpg",
         "name": "Tomato (1 Kg)",
         "packSize": "1 kg",
         "price": 91,
@@ -2306,7 +2306,7 @@
       },
       {
         "id": 145,
-        "imgUrl": "https://images.fraazo.com/fraazo-prod/products/product_images/000/000/240/original/data/tr:w-256,h-256,f-webp",
+        "imgUrl": "https://m.media-amazon.com/images/I/81SKK6YrEtL._SL1500_.jpg",
         "name": "Tasty Combo",
         "packSize": "1 unit",
         "price": 133,
